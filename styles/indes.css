@@ -1,4 +1,24 @@
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
+:root{
+    --color-text: #F6F6F6;
+}
 
 
+body{
+    background-color: #241663;
+}
+
+
+.main_conteudo_titulo{
+    color: var(--color-text);
+}
+#main_conteudo_strong{
+    color: #EAE7AF;
+}
+.main_conteudo_paragrafo{
+    color: var(--color-text);
+}
+.main_conteudo_redes{
+    color: var(--color-text);
+}
