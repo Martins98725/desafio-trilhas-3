@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-    padding: 2% 0;
+    padding: 2% 0%;
     text-align: center;
 }
 
@@ -135,7 +135,8 @@ body {
 
 @media (max-width: 768px) {
     .header {
-        padding: 2% 5%;
+        padding: 2% 0;
+        margin-left: 10%;
     }
     
     .header_navigation {
