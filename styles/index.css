@@ -133,10 +133,10 @@ body {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .header {
         padding: 2% 0;
-        margin-left: 10%;
+        
     }
     
     .header_navigation {
@@ -171,7 +171,7 @@ body {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width:768px) {
     .header_navigation_link {
         font-size: 18px;
     }
